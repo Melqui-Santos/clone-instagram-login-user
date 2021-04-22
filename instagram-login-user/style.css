@@ -1,0 +1,103 @@
+.body {
+    background-color: rgba(var(--b3f,250,250,250),1);
+    padding-top: 4%;
+}
+.phone-ilustrator, .customer-account, .instagram-logo, .image-profile, .accesses,
+.image-profile img, .accesses-div-button, .accesses-button, .div-switch-account, .instagram-logo img {
+    display: block;
+}
+.phone-ilustrator, .accesses-button{
+    color: #FFF;
+}
+.phone-ilustrator {
+    margin-top: -1px;
+    margin-left: 269px;
+    height: 570px;
+}
+.phone-ilustrator img, .phone-ilustrator{
+        width: 517px;
+}
+.phone-ilustrator, .customer-account {
+    margin-bottom: 1px;
+}
+.customer-account {
+    background: #FFF;
+    margin-top: -454px;
+    margin-left: 693px;
+    margin-right: 10px;
+    width: 349px;
+    height: 337px;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+}
+.instagram-logo {
+    height: 90px;
+}
+.instagram-logo, .image-profile {
+    width: 350px;
+}
+.instagram-logo img{
+    width: 180px;
+    margin-top: 8px;
+}
+.instagram-logo img, .accesses-button{
+    margin-left: auto;
+}
+.instagram-logo img, .accesses-button, .message-switch-account {
+    margin-right: auto;
+}
+.image-profile, .image-profile img{
+    height: 100px;
+}
+.image-profile img{
+    border-radius: 100px;
+    margin: 8px auto 10px;
+    width: 100px;
+}
+.accesses {
+    height: 39%;
+}
+.accesses-div-button {
+    height: 46%;
+}
+.accesses-div-button, .div-switch-account {
+    width: 100%;
+}
+.accesses-button, .message-switch-account, .switch-account {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    position: relative;
+}
+.accesses-button, .switch-account {
+    font-weight: 600;
+    cursor: pointer;
+}
+.accesses-button, .message-switch-account {
+    border: 1px solid transparent;
+    border-radius: 4px;
+    height: 30px;
+    width: 263px;
+}
+.accesses-button {
+    background-color: #0095f6;
+    background-color: rgba(var(--d69,0,149,246),1);
+    color: rgba(var(--eca,255,255,255),1);
+    margin-top: 27px;
+}
+.div-switch-account {
+    height: 35%;
+}
+.message-switch-account {
+    color: #262626;
+    margin-top: -7px;
+    margin-left: 48px;
+}
+.message-switch-account, .switch-account {
+    display: inline;
+}
+.switch-account {
+    border: 0;
+    color: #0095f6;
+    background-color: transparent;
+    color: rgba(var(--d69,0,149,246),1);
+    padding: 0;
+}
